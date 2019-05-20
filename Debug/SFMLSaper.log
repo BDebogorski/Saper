@@ -1,10 +1,3 @@
-﻿  button.cpp
-c:\users\ja\desktop\sfmlsaper\sfmlsaper\button.cpp(19): warning C4244: "*=": konwersja z "double" do "int", możliwa utrata danych
-c:\users\ja\desktop\sfmlsaper\sfmlsaper\button.cpp(20): warning C4244: "*=": konwersja z "double" do "int", możliwa utrata danych
-c:\users\ja\desktop\sfmlsaper\sfmlsaper\button.cpp(22): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
-c:\users\ja\desktop\sfmlsaper\sfmlsaper\button.cpp(23): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
-c:\users\ja\desktop\sfmlsaper\sfmlsaper\button.cpp(25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
-c:\users\ja\desktop\sfmlsaper\sfmlsaper\button.cpp(26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
-c:\users\ja\desktop\sfmlsaper\sfmlsaper\button.cpp(28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
-  SFMLSaper.vcxproj -> C:\Users\Ja\Desktop\SFMLSaper\Debug\SFMLSaper.exe
-  SFMLSaper.vcxproj -> C:\Users\Ja\Desktop\SFMLSaper\Debug\SFMLSaper.pdb (Partial PDB)
+﻿  board.cpp
+  SFMLSaper.vcxproj -> C:\ALL\Inf\Programy\SFMLSnake\Debug\SFMLSaper.exe
+  SFMLSaper.vcxproj -> C:\ALL\Inf\Programy\SFMLSnake\Debug\SFMLSaper.pdb (Partial PDB)
